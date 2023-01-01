@@ -5,7 +5,7 @@
 Me llamo Michael J. Canales Palomino tengo 18 años y desde que conocí la programacion a los 17 
 quedé obsesionado de todas las maravillas que se podian ahcer con una computadora
 
-Soy Desarrollador Web __⚡Full Stack⚡__
+Actualmente Soy Desarrollador Web __⚡Full Stack⚡__ hago proyectos o estudio nuevas tecnologias cada dia
 
 ## Como uso mi tiempo
 bueno, todos los dias trato de aprender algo nuevo y adecuarme a lo que las empresas desean,
