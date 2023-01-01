@@ -3,9 +3,9 @@
 
 ## Yo
 Me llamo Michael J. Canales Palomino tengo 18 años y desde que conocí la programacion a los 17 
-quedé obsesionado de todas las maravillas que se podian ahcer con una computadora
+quedé obcesionado de todas las maravillas que se podian hacer con una computadora
 
-Actualmente Soy Desarrollador Web __⚡Full Stack⚡__ hago proyectos o estudio nuevas tecnologias cada dia
+Actualmente Soy Desarrollador Web __⚡Full Stack⚡__ hago proyectos y estudio nuevas tecnologias cada dia
 
 ## Como uso mi tiempo
 bueno, todos los dias trato de aprender algo nuevo y adecuarme a lo que las empresas desean,
@@ -14,7 +14,7 @@ me encantá realizar soluciones que luego terminan siendo beneficiosoas para qui
 ## Mi Objetivo
 ### Mejorar y Aprender
 lo que más me encanta es mejorar en todos y cada uno de los temas en lo que pongo enfásis
-para asi mejorar la vida de las personas de forma rápida , eficáz y sencilla.
+para asi mejorar la vida de las personas y su interacción de forma rápida , eficáz y sencilla.
 
 
 
