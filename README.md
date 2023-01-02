@@ -12,7 +12,7 @@ Me llamo Michael J. Canales Palomino tengo 18 años y desde que conocí la progr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Miiichael6&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miiichael6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Miiichael6&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Mis Objetivos e Intereses
+me gusta desarrollar entornos web de para Usuarios de forma Mas sencilla😄, rápida ⚡ y Eficáz💪 <br>🏻
+mi objetivo es enseñar y aportar mis conocimientos y expander este mundo que es la Programación, <br>
+cumplir mis metas a futuro como expandir mis conocimientos a Inteligencia Artificial, entre otros <br>
