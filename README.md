@@ -18,7 +18,7 @@ para asi mejorar la vida de las personas y su interacción de forma rápida , ef
 
 
 ### Las tecnologias que manejo;
-´
+`
 const abilities = [
   "JavaScript",  // el numero #1
   "React",       // OMG
@@ -33,8 +33,7 @@ const abilities = [
   "Bootstrap",   // Todavia Te amamos Bootstrap
   "Firebase",    // La vieja Confiable
   ]
-
-´
+`
 
 
 
