@@ -40,8 +40,9 @@ const abilities = [
 
 ## Contactame
 
-¿¡te interesaron mis Objetivos?! Increible
-en ese caso contactame espero con ansias tu mensaje 
+¿¡te interesaron mis Objetivos?! 
+¡Increible!
+en ese caso contactame espero con todas las ansias tu mensaje :)
 
 correo: cdlsmichael.16@gmail.com 
 Linkedin: https://www.linkedin.com/in/michael-canales-665235236/ 
