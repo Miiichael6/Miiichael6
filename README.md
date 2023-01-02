@@ -38,6 +38,14 @@ const abilities = [
 ```
 
 
+## Contactame
+
+¿¡te interesaron mis Objetivos?! Increible
+en ese caso contactame espero con ansias tu mensaje 
+
+correo: cdlsmichael.16@gmail.com 
+Linkedin: https://www.linkedin.com/in/michael-canales-665235236/ 
+
 
 <!--
 **Miiichael6/Miiichael6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
