@@ -17,7 +17,24 @@ lo que más me encanta es mejorar en todos y cada uno de los temas en lo que pon
 para asi mejorar la vida de las personas y su interacción de forma rápida , eficáz y sencilla.
 
 
+### Las tecnologias que manejo;
+´
+const abilities = [
+  "JavaScript",  // el numero #1
+  "React",       // OMG
+  "Redux",       // React: que seria yo sin ti...
+  "NodeJS",      // nunca me fallas
+  "Sequelize",   // el Mejor ORM SQL de la historia
+  "TypeScript",  // oye! yo te conozco...
+  "PostgreSQL",  // Porque las bases de datos tienen de logo Animales
+  "MongoDB",     // Lo mismo que el de arriba
+  "Express",     // Nunca me fallas <3
+  "Tailwind",    // El sucesor de bootstrap mas esperado
+  "Bootstrap",   // Todavia Te amamos Bootstrap
+  "Firebase",    // La vieja Confiable
+  ]
 
+´
 
 
 
