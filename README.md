@@ -19,7 +19,7 @@ para asi mejorar la vida de las personas y su interacción de forma rápida , ef
 
 ### Las tecnologias que manejo;
 
-```
+```JavaScript
 const abilities = [
   "JavaScript",  // el numero #1
   "React",       // OMG
