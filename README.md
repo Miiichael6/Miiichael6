@@ -29,6 +29,7 @@ const abilities = [
   "TypeScript",  // oye! yo te conozco...
   "PostgreSQL",  // Porque las bases de datos tienen de logo Animales🤔
   "MongoDB",     // Lo mismo que el de arriba🤔
+  "Mongoose",    // AHUA!
   "Express",     // Nunca me fallas <3
   "Tailwind",    // El sucesor de bootstrap mas esperado 👯
   "Bootstrap",   // Todavia Te amamos Bootstrap 🔭
