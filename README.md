@@ -16,6 +16,6 @@ mi objetivo es enseñar y aportar mis conocimientos y expander este mundo que es
 cumplir mis metas a futuro y expandir mis conocimientos a quienes las necesiten 😃
 
 # Proyectos 😁
-- dabestcountriesapp [https://dabestcountriesapp.vercel.app]
-- find-Your-Teacher [https://find-your-teacher-pf.vercel.app]
+- dabestcountriesapp(app de visualizador de paises con diferentes implementaciones) [https://dabestcountriesapp.vercel.app]
+- find-Your-Teacher(app de acuerdos, pasarella, reserva, etc...) [https://find-your-teacher-pf.vercel.app]
 - Amazing Proyectos(administrador de proyectos privados, colaboradores ,etc) [en proceso...]
