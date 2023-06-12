@@ -1,4 +1,4 @@
-# 🧑 About Me:
+# 🧑 About Me / sobre mi :
 Me llamo Michael J. Canales Palomino tengo 18 años y desde que conocí la programación <br>a los 17 quedé obsesionado de todas las maravillas que se podían hacer con una computadora<br><br>Actualmente Soy Desarrollador Web ⚡Full Stack⚡ hago proyectos y estudio nuevas tecnologías cada día<br><br>
 
 
@@ -11,11 +11,7 @@ Me llamo Michael J. Canales Palomino tengo 18 años y desde que conocí la progr
 # 📊 Mi Estado En Github / GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Miiichael6&theme=dark&hide_border=false)<br/>
 # Mis Objetivos e Intereses
-me gusta desarrollar entornos web de para Usuarios de forma Mas sencilla😄, rápida ⚡ y Eficáz💪 <br>🏻
+me gusta desarrollar entornos web de para Usuarios de forma más sencilla🍂, rápida ⚡ y Eficáz💪 <br>🏻
 mi objetivo es enseñar y aportar mis conocimientos y expander este mundo que es la Programación, <br>
-cumplir mis metas a futuro y expandir mis conocimientos a quienes las necesiten 😃
+cumplir mis metas a futuro y expandir mis conocimientos a quienes las necesiten!
 
-# Proyectos 😁
-- dabestcountriesapp(app de visualizador de paises con diferentes implementaciones) [https://dabestcountriesapp.vercel.app]
-- find-Your-Teacher(app de acuerdos, pasarella, reserva, etc...) [https://find-your-teacher-pf.vercel.app]
-- Amazing Proyectos(administrador de proyectos privados, colaboradores ,etc) [en proceso...]
