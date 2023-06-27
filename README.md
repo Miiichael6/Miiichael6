@@ -1,8 +1,8 @@
-# 🧑 About Me / sobre mi :
-Me llamo Michael J. Canales Palomino tengo 19 años y desde que conocí la programación <br> 
-a los 17 quedé obsesionado con los lenguajes de programación y la sintaxis de estas<br>
-Actualmente Soy Desarrollador Web ⚡Full Stack⚡ desarrollo proyectos y estudio nuevas tecnologías cada día
-<br>
+# 🧑 About Me / sobre mi : 
+me gustan los lenguajes de programación y la sintaxis de estas<br>
+me encanta aprender nuevos conceptos y nuevas rutas de aprendizaje relacionado a la programación<br>
+y principios hacia las buenas prácticas, Desarrollo mis propios proyectos y<br>
+Actualmente Soy Desarrollador Web ⚡Full Stack⚡ y desarrollador mobil a futuro jeje<br>
 ## 🌐 Red / Social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Michael Canales](https://www.linkedin.com/in/michael-canales-665235236/)) 
 <br/>
