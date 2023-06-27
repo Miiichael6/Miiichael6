@@ -1,4 +1,4 @@
-# 🧑 About Me / sobre mi : 
+# 🦝 About Me / sobre mi : 
 me gustan los lenguajes de programación y la sintaxis de estas<br>
 me encanta aprender nuevos conceptos y nuevas rutas de aprendizaje relacionado a la programación<br>
 y principios hacia las buenas prácticas, Desarrollo mis propios proyectos y<br>
