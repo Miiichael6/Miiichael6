@@ -2,7 +2,7 @@
 me gustan los lenguajes de programación y la sintaxis de estas<br>
 me encanta aprender nuevos conceptos y nuevas rutas de aprendizaje relacionado a la programación<br>
 y principios hacia las buenas prácticas, Desarrollo mis propios proyectos y<br>
-Actualmente Soy Desarrollador Web Full Stack y desarrollador mobil a futuro<br>
+Actualmente Trabajo como Desarrollador Web Full Stack<br>
 ## 🌐 Red / Social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Michael Canales](https://www.linkedin.com/in/michael-canales-665235236/)) 
 <br/>
