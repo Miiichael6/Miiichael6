@@ -4,7 +4,7 @@ me encanta aprender nuevos conceptos y nuevas rutas de aprendizaje relacionado a
 y principios hacia las buenas prácticas, Desarrollo mis propios proyectos y<br>
 Actualmente Trabajo como Desarrollador Web Full Stack<br>
 ## 🌐 Red / Social media:
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Michael Canales](https://www.linkedin.com/in/michael-canales-665235236/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Michael Canales](https://www.linkedin.com/in/michael-canales-665235236/)) 
 <br/>
 Email ................[cdlsmichael.16@gmail.com]
 <br/>
